@@ -1,2 +1,2 @@
 # bgremover
-emove the background elements completely from the image.
+remove the background elements completely from the image.
